@@ -1,4 +1,4 @@
-# Sales-detailed-Analysis-POWER-BI-Dashboard-
+  # Sales-detailed-Analysis-POWER-BI-Dashboard-
 Executive Sales Analytics Dashboard built with Power BI, DAX, and ML insights.
 ┌────────────────┐     ┌──────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐
 │  1. Data ETL   │ ──> │  2. DAX Measures │ ──> │ 3. Interactive Dash  │ ──> │ 4. Predictive Insights│
